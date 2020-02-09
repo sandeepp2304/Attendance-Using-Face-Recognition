@@ -1,0 +1,12 @@
+Click
+cmake
+dlib==19.8.1
+face_recognition
+face_recognition_models
+flake8
+matplotlib
+numpy
+opencv-contrib-python
+Pillow
+sklearn
+tox
